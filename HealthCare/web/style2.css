@@ -1,0 +1,97 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 10, 2023, 11:54:19 AM
+    Author     : SSD ASUS
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+  padding: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* Center website */
+.mainn {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.mainn h1{
+    padding-top: 30px;
+    font-size: 2.4rem;
+    font-family: sans-serif;
+    text-align: center;
+    color: black;
+    position: relative;
+    margin-top: 60px;
+}
+
+
+
+.mainn b{
+    color : black;
+    font-family: cursive;
+    font-size: 1.6rem;
+    margin-left: 410px;
+}
+
+.row {
+  margin: 8px -20px;
+  margin-top: 90px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+.content p{
+    margin-top: 20px;
+    font-size: 1.1rem;
+    color: black;
+}
+.content h3{
+    margin-top: 20px;
+    color : black;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
