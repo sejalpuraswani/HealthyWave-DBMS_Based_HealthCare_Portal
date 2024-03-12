@@ -12,6 +12,25 @@
 ### HomePage
 ![homepage](https://github.com/sejalpuraswani/HealthyWave-DBMS_Based_HealthCare_Portal/blob/main/images/homepage.PNG)
 
+### Registration Page
+![Registartion](https://github.com/sejalpuraswani/HealthyWave-DBMS_Based_HealthCare_Portal/blob/main/images/Registartion%20Form.PNG)
+
+### AboutUs Page
+![AboutUs Page](https://github.com/sejalpuraswani/HealthyWave-DBMS_Based_HealthCare_Portal/blob/main/images/About%20Us.PNG)
+
+### Services Page
+![services](https://github.com/sejalpuraswani/HealthyWave-DBMS_Based_HealthCare_Portal/blob/main/images/servicesPage.PNG)
+
+### Doctors Page
+![Doctors](https://github.com/sejalpuraswani/HealthyWave-DBMS_Based_HealthCare_Portal/blob/main/images/doctors.PNG)
+
+### Current Patients
+![Current Patients](https://github.com/sejalpuraswani/HealthyWave-DBMS_Based_HealthCare_Portal/blob/main/images/currentPatients.PNG)
+
+### ContactUs Page
+![contact page](https://github.com/sejalpuraswani/HealthyWave-DBMS_Based_HealthCare_Portal/blob/main/images/contactUs.PNG)
+
+
 ## Features
 - **Seamless Patient Registration:** Allows patients to register easily by providing necessary details through a user-friendly interface.
 - **Appointment Scheduling:** Enables patients to schedule appointments with their preferred doctors based on availability.
