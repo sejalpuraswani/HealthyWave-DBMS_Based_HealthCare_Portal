@@ -7,6 +7,10 @@
 - The system maintains precise patient records for all doctors, ensuring efficient management of patient data.
 - It serves as a centralized platform for patients to register, book appointments with preferred doctors, and maintain their records securely.
 -  The portal also facilitates efficient management of doctor-patient interactions and inquiries through the contact us page.
+  
+## Screenshots
+### HomePage
+![homepage](https://github.com/sejalpuraswani/HealthyWave-DBMS_Based_HealthCare_Portal/blob/main/images/homepage.PNG)
 
 ## Features
 - **Seamless Patient Registration:** Allows patients to register easily by providing necessary details through a user-friendly interface.
@@ -19,7 +23,4 @@
  - **HTML, CSS:** Utilized for better user experience and user-friendly navigation, ensuring a visually appealing and intuitive interface.
  - **Java, JDBC, JSP:** Used for backend functionalities, facilitating seamless data processing and management.
  - **MySQL:** Employed for storing data securely into the database, ensuring efficient data retrieval and management.
-
- ## Additional Information
-- The portal includes sections such as homepage, about us, services, doctors, and contact us for seamless navigation and access to information.
 
